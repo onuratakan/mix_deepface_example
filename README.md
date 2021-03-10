@@ -1,3 +1,3 @@
-# mix deepface example
+# Mix Deepface Example | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mix_deepface_example/bitcoin_price_prediction) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/onuratakan/mix_deepface_example/blob/master/LICENSE)
 ![mix_deepface_example](https://repository-images.githubusercontent.com/330467840/0d29f580-59ad-11eb-8e2c-3deb6f2c70e8)
 This project is based on deepface python library.
